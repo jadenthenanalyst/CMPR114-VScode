@@ -1,0 +1,10 @@
+INFORMATION OF EMPLOYEE #1 IS:
+Name: Jaden
+ID: 123
+Department: IT
+
+INFORMATION OF EMPLOYEE #2 IS:
+Name: Phil
+ID: 456
+Department: Marketing
+

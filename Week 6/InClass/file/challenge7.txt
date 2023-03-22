@@ -1,0 +1,5 @@
+Student Name: Jaden
+Midterm grade is: 70
+Final grade is: 60
+Average grade is: 65.0
+Letter grade is: ['D']

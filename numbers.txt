@@ -1,0 +1,15 @@
+the 1st number is 2
+the 2nd number is 4
+the 3rd number is 6
+the avg number is 4.0
+the total number is 12
+the 1st number is 10
+the 2nd number is 20
+the 3rd number is 30
+the avg number is 20.0
+the total number is 60
+the 1st number is 10
+the 2nd number is 20
+the 3rd number is 30
+the avg number is 20.0
+the total number is 60
