@@ -4,3 +4,5 @@ sales for day # 3 is: 1000.0
 sales for day # 4 is: 1000.0
 sales for day # 5 is: 1000.0
 New salary with bonus is: 80500.0
+1.0
+2.0
