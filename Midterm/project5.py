@@ -1,0 +1,7 @@
+nums = range(20,31)
+num_list = list(nums)
+sum_nums = sum(num_list)
+avg_nums = sum_nums / len(num_list)
+print(num_list)
+print(sum_nums)
+print(avg_nums)
