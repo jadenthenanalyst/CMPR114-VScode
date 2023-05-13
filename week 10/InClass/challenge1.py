@@ -10,11 +10,18 @@ class birds(rabbits):
     def munch1(self):
         print(" seeds ")
 
+class dogs(AnimalType):
+    def munch2(self):
+        print(" bones ")
+
 RabbitObject = rabbits()
 RabbitObject.eats()
 RabbitObject.munch()
 
 BirdObject = birds()
 BirdObject.eats()
-BirdObject.munch()
 BirdObject.munch1()
+
+DogObject = dogs()
+DogObject.eats()
+DogObject.munch2()
